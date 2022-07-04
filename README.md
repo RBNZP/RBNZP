@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ravi Balasubramanian. I am currently working at NzPost.
+- 👀 I’m interested in Python, SQL and will be working on tools such as snowflake, dbt, lambda, fargate and 
+- 🌱 I’m currently learning about AWS and the data/other assets within the AWS cloud. I am familiar with GCP and Azure.
+- 💞️ I’m looking to collaborate on projects involving python and sql both within NzPost and externally.
+- 📫 You can reach me on my email which is Ravi.Balasubramanian@nzpost.co.nz
